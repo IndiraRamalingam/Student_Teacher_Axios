@@ -24,7 +24,7 @@ function Dashboard() {
                   <div className="row">
                     <div className="col-sm-6 mb-4" >
                       <div className="card border-primary text-center">
-                      <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh_VUGhJCT9KO5o4RwRZp0BL5zMvVV-GyciA&usqp=CAU" alt="Student" height={'170vh'}/>
+                      <img class="card-img-top" src="https://img.freepik.com/free-vector/group-students-school-illustrated_52683-43232.jpg" alt="Student" height={'250vh'}/>
                         <div className="card-body text-primary">
                           <h5 className="card-title  fw-bold fs-3">Students</h5>
                           <p className="card-text">Total number Of Students : {studNum}</p>
@@ -38,7 +38,7 @@ function Dashboard() {
                     </div>
                     <div className="col-sm-6 mb-4">
                       <div className="card border-primary text-center">
-                      <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaM0IK2clbN4H9OgndVugguoATF8CwGh4aXQ&usqp=CAU" alt="Teacher" height={'170vh'}/>
+                      <img class="card-img-top" src="https://img.freepik.com/premium-vector/hand-drawn-cartoon-teacher-teaching-classroom-background_40876-3054.jpg?w=360" alt="Teacher" height={'250vh'}/>
                       
                         <div className="card-body text-primary">
                           <h5 className="card-title fw-bold fs-3">Teachers</h5>
